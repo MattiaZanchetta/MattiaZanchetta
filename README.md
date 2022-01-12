@@ -5,8 +5,8 @@
 
 <br />
 
-### Programming Languages:
--C#
--C++
--Python
--JS
+## Programming Languages:
+- C#
+- C++
+- Python
+- JS
