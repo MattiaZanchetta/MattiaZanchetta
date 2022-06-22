@@ -17,4 +17,4 @@
 [<img align="left" alt="mattia.zanchetta | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />[gmail]
 
 [instagram]: https://www.instagram.com/mattiz070/
-[gmail]: (mailto:mattia.zanchetta2004@gmail.com)
+[gmail]: (mailto:mattia.zanchetta2004@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
