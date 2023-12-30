@@ -1,7 +1,9 @@
 ### Hi there, I'm Mattia
 
 ## I'm a Student and Developer
-- I'm studying Computer Science at ITI Majorana, Grugliasco.
+- I studied Computer Science at ITI Majorana, Grugliasco, Italy.
+- I have a High School Diploma in Computer Science.
+- I'm currently studying Computer Science at University of Turin, Italy.
 
 <br />
 
