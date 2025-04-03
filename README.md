@@ -3,7 +3,8 @@
 ## I'm a Student and Developer
 - I studied Computer Science at ITI Majorana, Grugliasco, Italy.
 - I have a High School Diploma in Computer Science.
-- I'm currently studying Computer Science at University of Turin, Italy.
+- I studied Computer Science at University of Turin, Italy.
+- I'm currently studying AR/VR and Game Development at ITS ICT Academy, Turin, Italy.
 
 <br />
 
@@ -14,6 +15,9 @@
 - JS
 - Java
 - PHP
+- SQL
+- C
+- Assembly (RISC V)
 
 ### Contacts:
 - [<img align="left" alt="Mattiz070 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
